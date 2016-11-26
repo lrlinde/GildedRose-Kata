@@ -4,7 +4,6 @@ import static java.lang.Math.max;
 import static java.lang.Math.min;
 
 import com.gildedrose.Item;
-import com.gildedrose.ItemType;
 
 public abstract class Calculator {
 

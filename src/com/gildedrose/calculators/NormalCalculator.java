@@ -1,9 +1,8 @@
 package com.gildedrose.calculators;
 
-import static com.gildedrose.ItemType.NORMAL;
+import static com.gildedrose.calculators.ItemType.NORMAL;
 
 import com.gildedrose.Item;
-import com.gildedrose.ItemType;
 
 class NormalCalculator extends Calculator {
 

@@ -1,9 +1,8 @@
 package com.gildedrose.calculators;
 
-import static com.gildedrose.ItemType.PASSES;
+import static com.gildedrose.calculators.ItemType.PASSES;
 
 import com.gildedrose.Item;
-import com.gildedrose.ItemType;
 
 class PassesCalculator extends Calculator {
 

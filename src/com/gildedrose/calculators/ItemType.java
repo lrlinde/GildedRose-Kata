@@ -1,4 +1,4 @@
-package com.gildedrose;
+package com.gildedrose.calculators;
 
 
 public enum ItemType {

@@ -1,9 +1,8 @@
 package com.gildedrose.calculators;
 
-import static com.gildedrose.ItemType.AGED_BRIE;
+import static com.gildedrose.calculators.ItemType.AGED_BRIE;
 
 import com.gildedrose.Item;
-import com.gildedrose.ItemType;
 
 class AgedBrieCalculator extends Calculator {
 

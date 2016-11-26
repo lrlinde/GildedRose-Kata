@@ -1,9 +1,8 @@
 package com.gildedrose.calculators;
 
-import static com.gildedrose.ItemType.SULFURAS;
+import static com.gildedrose.calculators.ItemType.SULFURAS;
 
 import com.gildedrose.Item;
-import com.gildedrose.ItemType;
 
 class SulfurasCalculator extends Calculator {
 

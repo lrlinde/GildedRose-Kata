@@ -2,14 +2,16 @@ package com.gildedrose;
 
 import static org.hamcrest.CoreMatchers.is;
 import static org.junit.Assert.assertThat;
-import static com.gildedrose.ItemType.AGED_BRIE;
-import static com.gildedrose.ItemType.NORMAL;
-import static com.gildedrose.ItemType.PASSES;
-import static com.gildedrose.ItemType.SULFURAS;
+import static com.gildedrose.calculators.ItemType.AGED_BRIE;
+import static com.gildedrose.calculators.ItemType.NORMAL;
+import static com.gildedrose.calculators.ItemType.PASSES;
+import static com.gildedrose.calculators.ItemType.SULFURAS;
 import static junitparams.JUnitParamsRunner.$;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
+
+import com.gildedrose.calculators.ItemType;
 
 import junitparams.JUnitParamsRunner;
 import junitparams.Parameters;

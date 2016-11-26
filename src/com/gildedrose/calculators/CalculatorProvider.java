@@ -1,13 +1,11 @@
 package com.gildedrose.calculators;
 
-import static com.gildedrose.ItemType.findByName;
+import static com.gildedrose.calculators.ItemType.findByName;
 import static java.util.Arrays.asList;
 import static java.util.function.Function.identity;
 import static java.util.stream.Collectors.toMap;
 
 import java.util.Map;
-
-import com.gildedrose.ItemType;
 
 public class CalculatorProvider {
 
